@@ -1,0 +1,7 @@
+generated/*
+.DS_Store
+overriddenValues.yaml
+**/components/**
+generated_old/*
+.idea/
+**/helm_repos/**

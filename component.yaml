@@ -1,0 +1,7 @@
+name: mapleleaf
+type: component
+subcomponents:
+- name: core
+  type: component
+  source: core
+  method: local
