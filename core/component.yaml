@@ -1,0 +1,7 @@
+name: core
+type: component
+subcomponents:
+  - name: operational
+    type: component
+    method: local
+    source: operational

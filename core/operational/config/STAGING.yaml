@@ -1,0 +1,7 @@
+subcomponents:
+  prometheus-adapter:
+    namespace: monitoring
+    injectNamespace: true
+    config:
+      prometheus:
+        url: http://prometheus.staging
