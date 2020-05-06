@@ -1,7 +1,7 @@
 # k8s-fabrikate
 
 # Introduction 
-This repository is a high level deployment definition for Kubernetes. The repo contains [Fabrikate](https://github.com/microsoft/fabrikate) definitions for Maple Leaf project.
+This repository is a high level deployment definition for Kubernetes. The repo contains [Fabrikate](https://github.com/microsoft/fabrikate) definitions for a sample project.
 
 # Getting Started
 
