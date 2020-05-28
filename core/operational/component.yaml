@@ -3,7 +3,7 @@ type: component
 subcomponents:
   - name: prometheus-adapter
     type: helm
-    source: https://kubernetes-charts.storage.googleapis.com/
+    source: https://kubernetes-charts.storage.googleapis.com
     method: helm
     path: prometheus-adapter
     version: 2.3.1
